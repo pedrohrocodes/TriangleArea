@@ -1,0 +1,16 @@
+C:\Pedro\repos\Triangle\Triangle\bin\Debug\net5.0\Triangle.exe
+C:\Pedro\repos\Triangle\Triangle\bin\Debug\net5.0\Triangle.deps.json
+C:\Pedro\repos\Triangle\Triangle\bin\Debug\net5.0\Triangle.runtimeconfig.json
+C:\Pedro\repos\Triangle\Triangle\bin\Debug\net5.0\Triangle.runtimeconfig.dev.json
+C:\Pedro\repos\Triangle\Triangle\bin\Debug\net5.0\Triangle.dll
+C:\Pedro\repos\Triangle\Triangle\bin\Debug\net5.0\ref\Triangle.dll
+C:\Pedro\repos\Triangle\Triangle\bin\Debug\net5.0\Triangle.pdb
+C:\Pedro\repos\Triangle\Triangle\obj\Debug\net5.0\Triangle.csproj.AssemblyReference.cache
+C:\Pedro\repos\Triangle\Triangle\obj\Debug\net5.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pedro\repos\Triangle\Triangle\obj\Debug\net5.0\Triangle.AssemblyInfoInputs.cache
+C:\Pedro\repos\Triangle\Triangle\obj\Debug\net5.0\Triangle.AssemblyInfo.cs
+C:\Pedro\repos\Triangle\Triangle\obj\Debug\net5.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Pedro\repos\Triangle\Triangle\obj\Debug\net5.0\Triangle.dll
+C:\Pedro\repos\Triangle\Triangle\obj\Debug\net5.0\ref\Triangle.dll
+C:\Pedro\repos\Triangle\Triangle\obj\Debug\net5.0\Triangle.pdb
+C:\Pedro\repos\Triangle\Triangle\obj\Debug\net5.0\Triangle.genruntimeconfig.cache
